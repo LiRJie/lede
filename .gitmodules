@@ -1,0 +1,6 @@
+[submodule "package/fullconenat"]
+	path = package/fullconenat
+	url = https://github.com/yujincheng08/openwrt-iptables-mod-fullconenat
+[submodule "package/geodata"]
+	path = package/geodata
+	url = https://github.com/sbwml/v2ray-geodata
